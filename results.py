@@ -1,0 +1,213 @@
+
+# NWPU ressp + refpn resemble iou = 0.1
+# AP50
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9028857806968751, 'baseball-diamond': 0.9981320049813203,
+# 'tennis-court': 0.814955379548681, 'basketball-court': 0.907523510971787,
+# 'ground-track-field': 0.9041910631741141, 'harbor': 0.8993506493506495,
+# 'bridge': 0.7952408093473926, 'vehicle': 0.894102259520805}
+# AP50: 89.33
+
+# AP40
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9981320049813203,
+# 'tennis-court': 0.8162088005313091, 'basketball-court': 0.907523510971787,
+# 'ground-track-field': 0.9954545454545455, 'harbor': 0.8993506493506495,
+# 'bridge': 0.8436217095693215, 'vehicle': 0.894102259520805}
+# AP50: 90.77
+
+# AP30
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9981320049813203,
+# 'tennis-court': 0.8162088005313091, 'basketball-court': 0.907523510971787,
+# 'ground-track-field': 0.9954545454545455, 'harbor': 0.8993506493506495,
+# 'bridge': 0.8765752963613929, 'vehicle': 0.894102259520805}
+# AP50: 91.10
+
+# AP20
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9981320049813203,
+# 'tennis-court': 0.8162088005313091, 'basketball-court': 0.907523510971787,
+# 'ground-track-field': 0.9954545454545455, 'harbor': 0.8993506493506495,
+# 'bridge': 0.8765752963613929, 'vehicle': 0.894102259520805}
+# AP50: 91.10
+
+
+# NWPU ressp + refpn resemble iou = 0.2
+# AP50
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9028857806968751, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8169103623649079, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9041910631741141, 'harbor': 0.9009740259740261,
+# 'bridge': 0.7952408093473926, 'vehicle': 0.8950686210526544}
+# AP50: 90.27
+
+# AP40
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8169103623649079, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9954545454545455, 'harbor': 0.9009740259740261,
+# 'bridge': 0.8436217095693215, 'vehicle': 0.8950686210526544}
+# AP50: 91.69
+
+# AP30
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8169103623649079, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9954545454545455, 'harbor': 0.9009740259740261,
+# 'bridge': 0.8765752963613929, 'vehicle': 0.8950686210526544}
+# AP50: 92.02
+
+# AP20
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8169103623649079, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9954545454545455, 'harbor': 0.9009740259740261,
+# 'bridge': 0.8765752963613929, 'vehicle': 0.8950686210526544}
+# AP50: 92.02
+
+
+# NWPU ressp + refpn resemble iou = 0.3
+# AP50
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9028857806968751, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8175716900549117, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.984069006006413, 'harbor': 0.9009740259740261,
+# 'bridge': 0.7928374655647384, 'vehicle': 0.8951044967791378}
+# AP50: 91.05
+
+# AP40
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8922128383802705, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9883026064844247, 'harbor': 0.9009740259740261,
+# 'bridge': 0.839329710417639, 'vehicle': 0.8951044967791378}
+# AP50: 92.33
+
+# AP30
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8922128383802705, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9883026064844247, 'harbor': 0.9009740259740261,
+# 'bridge': 0.8714810442083171, 'vehicle': 0.8951044967791378}
+# AP50: 92.65
+
+# AP20
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.8922128383802705, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9883026064844247, 'harbor': 0.9009740259740261,
+# 'bridge': 0.8714810442083171, 'vehicle': 0.8951044967791378}
+# AP50: 92.65
+
+
+
+# NWPU ressp + refpn resemble iou = 0.4
+# AP50
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9028857806968751, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9051137775969993, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9794251649989356, 'harbor': 0.8982683982683982,
+# 'bridge': 0.7928374655647384, 'vehicle': 0.8951044967791378}
+# AP50: 91.85
+
+# AP40
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9062080536912753, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9835189843094982, 'harbor': 0.8982683982683982,
+# 'bridge': 0.8380996108268837, 'vehicle': 0.8951044967791378}
+# AP50: 92.38
+
+# AP30
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9062080536912753, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9835189843094982, 'harbor': 0.8982683982683982,
+# 'bridge': 0.8696051423324151, 'vehicle': 0.8951044967791378}
+# AP50: 92.69
+
+# AP20
+# 'airplane': 1.0000000000000002, 'ship': 0.8168642951251648,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9062080536912753, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9835189843094982, 'harbor': 0.8982683982683982,
+# 'bridge': 0.8696051423324151, 'vehicle': 0.8951044967791378}
+# AP50: 92.69
+
+
+
+# NWPU ressp + refpn resemble iou = 0.5
+# AP50
+# 'airplane': 1.0000000000000002, 'ship': 0.8155844155844157,
+# 'storage-tank': 0.9028857806968751, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9030043297044188, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9704316616081323, 'harbor': 0.8982683982683982,
+# 'bridge': 0.8264018483959834, 'vehicle': 0.8951044967791378}
+# AP50: 92.06
+
+# AP40
+# 'airplane': 1.0000000000000002, 'ship': 0.8155844155844157,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9040461911635591, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9742841873339351, 'harbor': 0.8982683982683982,
+# 'bridge': 0.8460532973519987, 'vehicle': 0.8951044967791378}
+# AP50: 92.33
+
+# AP30
+# 'airplane': 1.0000000000000002, 'ship': 0.8155844155844157,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9040461911635591, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9742841873339351, 'harbor': 0.8982683982683982,
+# 'bridge': 0.8649446376719105, 'vehicle': 0.8951044967791378}
+# AP50: 92.52
+
+# AP20
+# 'airplane': 1.0000000000000002, 'ship': 0.8155844155844157,
+# 'storage-tank': 0.9053443019411604, 'baseball-diamond': 0.9975262832405691,
+# 'tennis-court': 0.9040461911635591, 'basketball-court': 0.9969183359013869,
+# 'ground-track-field': 0.9742841873339351, 'harbor': 0.8982683982683982,
+# 'bridge': 0.8649446376719105, 'vehicle': 0.8951044967791378}
+# AP50: 92.52
+
+
+# NWPU ressp + refpn resemble iou = 0.6
+# AP50
+# 'airplane': 1.0000000000000002, 'ship': 0.8129419875898749,
+# 'storage-tank': 0.9028857806968751, 'baseball-diamond': 0.994617224880383,
+# 'tennis-court': 0.8898877715933388, 'basketball-court': 0.990678998998378,
+# 'ground-track-field': 0.9667146578911285, 'harbor': 0.8966450216450216,
+# 'bridge': 0.8032285679344504, 'vehicle': 0.8937355954102365}
+# AP50: 91.51
+
+# AP40
+# 'airplane': 1.0000000000000002, 'ship': 0.8129419875898749,
+# 'storage-tank': 0.9053342816500709, 'baseball-diamond': 0.994617224880383,
+# 'tennis-court': 0.8908355006886219, 'basketball-court': 0.990678998998378,
+# 'ground-track-field': 0.970467331711351, 'harbor': 0.8966450216450216,
+# 'bridge': 0.8194466823499084, 'vehicle': 0.8937355954102365}
+# AP50: 91.75
+
+# AP30
+# 'airplane': 1.0000000000000002, 'ship': 0.8129419875898749,
+# 'storage-tank': 0.9053342816500709, 'baseball-diamond': 0.994617224880383,
+# 'tennis-court': 0.8908355006886219, 'basketball-court': 0.990678998998378,
+# 'ground-track-field': 0.970467331711351, 'harbor': 0.8966450216450216,
+# 'bridge': 0.8364484977388205, 'vehicle': 0.8937355954102365}
+# AP50: 91.92
+
+# AP20
+# 'airplane': 1.0000000000000002, 'ship': 0.8129419875898749,
+# 'storage-tank': 0.9053342816500709, 'baseball-diamond': 0.994617224880383,
+# 'tennis-court': 0.8908355006886219, 'basketball-court': 0.990678998998378,
+# 'ground-track-field': 0.970467331711351, 'harbor': 0.8966450216450216,
+# 'bridge': 0.8364484977388205, 'vehicle': 0.8937355954102365}
+# AP50: 91.92
+
+
+# hrsc2016 ship
+# AP50 90.54
+# AP40 90.54
+# AP30 90.54
+# AP20 90.52
+

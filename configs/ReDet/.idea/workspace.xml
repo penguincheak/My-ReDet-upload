@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="379846b5-d706-4be3-b221-c7810a7ecb53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/DIOR2COCO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/DIOR2DOTA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/GaoFen2COCO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/GaoFen2DOTA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/HRSC2DOTA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/ImgSplit_multi_process_gaofen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/SplitOnlyImage_multi_process_gaofen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/dior_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/dota_crop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/dota_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/dota_poly2rbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/gaofen-challenge2DOTA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/gaofen_crop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/gaofen_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/gaofen_testset_crop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/gaofen_testset_crop_o.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/gaofen_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOTA_devkit/prepare_gaofen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FillIn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Object2Target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RandW_fname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Split_Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReDet-SSP/ReDet_re50_ressp_1x_dota15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReDet-SSP/ReDet_re50_ressp_3x_hrsc2016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReDet_256_3x_gaofen_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReDet_3x_gaofendet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReDet_re50_iou_sml1_3x_dior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReDet_re50_refpn_1x_gaofen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReDet_re50_refpn_2x_dior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReDet_re50_refpn_iousml1_1x_dota15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReDet_repanet_3x_gaofen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../crop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/datasets/DIOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/datasets/GaoFen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/datasets/GaoFen_Coarse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/datasets/GaoFen_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/datasets/GaoFen_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/backbones/re_resnet_oatt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/detectors/SSPReDet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/losses/attention_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/losses/iou_smooth_l1_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/necks/re_fpn_attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/necks/re_panet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/necks/re_panet_att.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/necks/ressp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/plugins/grounding_trans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/plugins/rendering_trans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mmdet/models/plugins/self_trans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../results2txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOTA_devkit/ImgSplit_multi_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOTA_devkit/ImgSplit_multi_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOTA_devkit/SplitOnlyImage_multi_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOTA_devkit/SplitOnlyImage_multi_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOTA_devkit/dota_v15_evaluation_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOTA_devkit/dota_v15_evaluation_task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOTA_devkit/hrsc2016_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOTA_devkit/hrsc2016_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOTA_devkit/polyiou.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOTA_devkit/polyiou.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOTA_devkit/prepare_dota1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOTA_devkit/prepare_dota1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DOTA_devkit/prepare_dota1_5_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DOTA_devkit/prepare_dota1_5_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota15.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota15_ms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota15_ms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota1_ms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReDet_re50_refpn_1x_dota1_ms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReDet_re50_refpn_3x_hrsc2016.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReDet_re50_refpn_3x_hrsc2016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo_large_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo_large_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/apis/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/apis/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/core/bbox/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/core/bbox/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/core/bbox/geometry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/core/bbox/geometry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/core/bbox/samplers/base_sampler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/core/bbox/samplers/base_sampler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/core/bbox/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/core/bbox/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/core/loss/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/core/loss/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/core/loss/losses.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/core/loss/losses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/datasets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/anchor_heads/rpn_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/anchor_heads/rpn_head.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/backbones/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/backbones/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/backbones/re_resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/backbones/re_resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/detectors/ReDet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/detectors/ReDet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/detectors/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/detectors/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/losses/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/losses/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/necks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/necks/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/necks/re_fpn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/necks/re_fpn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/rbbox_heads/rbbox_head.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/rbbox_heads/rbbox_head.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/models/registry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/models/registry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/ops/riroi_align/src/riroi_align_cuda.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/ops/riroi_align/src/riroi_align_cuda.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/ops/riroi_align/src/riroi_align_kernel.cu" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/ops/riroi_align/src/riroi_align_kernel.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/ops/roi_align/src/roi_align_cuda.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/ops/roi_align/src/roi_align_cuda.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mmdet/ops/roi_align_rotated/src/roi_align_rotated_kernel.cu" beforeDir="false" afterPath="$PROJECT_DIR$/../../mmdet/ops/roi_align_rotated/src/roi_align_rotated_kernel.cu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tools/dist_test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../tools/dist_test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tools/dist_train.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../tools/dist_train.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tools/parse_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../tools/parse_results.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1yTPvKRGpTbYPGXin3tJXwB4meg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379846b5-d706-4be3-b221-c7810a7ecb53" name="Default Changelist" comment="" />
+      <created>1632272833927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632272833927</updated>
+      <workItem from="1632272835902" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
